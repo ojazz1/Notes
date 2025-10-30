@@ -1,7 +1,0 @@
-Found in repo's "clone this wiki locally"
-    Original -- https://github.com/ORIGINAL-OWNER/REPO-NAME.wiki.git
-    Your Fork -- https://github.com/YOUR-USERNAME/REPO-NAME.wiki.git
-git clone https://github.com/ORIGINAL-OWNER/REPO-NAME.wiki.git original-wiki
-cd original-wiki
-git remote add fork https://github.com/YOUR-USERNAME/REPO-NAME.wiki.git
-git push fork master --force
